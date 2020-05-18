@@ -1,6 +1,6 @@
 {
     "name": "WaterMaster",
-    "description": "A Node-RED Project",
+    "description": "A Node-RED Project to manage garden watering",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
